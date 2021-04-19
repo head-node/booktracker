@@ -1,0 +1,15 @@
+#main-div button{
+    /* margin: 5vw; */
+ margin: 1vw 1vw 0 0; 
+ border: none;
+ padding: 5px;
+ border-radius: 15px;
+} 
+.light{
+    background-color: white;
+    color: black;
+} 
+.dark{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,14 @@
+.filter-div{
+    display: flex;
+    justify-content: space-around; 
+    margin-bottom: 5%; 
+} 
+.filter-div input {
+    width: 20%; 
+    border: none;
+    border-bottom: 2px solid rgb(155, 155, 157); 
+    text-align: center;
+    outline: none;
+    font-size: 2vw; 
+    text-transform: capitalize;
+}

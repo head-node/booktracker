@@ -1,0 +1,24 @@
+.search-in{
+   margin-right: 5vw;    
+   border: none;
+   border-bottom: 1px solid rgb(155,155,156 ); 
+   outline-style:none; 
+   width: 50vw;
+   font-size: 2.5vw;
+}
+.search-btn{
+    /* height: 5vh; */ 
+    border: none; 
+    border-radius: 0.5vw; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5vw;
+} 
+.search-btn:hover{
+    background-color: green; 
+    color: white;
+    font-weight: bold;
+    /* height: 7vw;  */
+    
+}
